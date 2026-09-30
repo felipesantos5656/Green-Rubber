@@ -1,0 +1,6 @@
+{
+  "name": "Green Rubber | Reciclaje Industrial de Llantas y Caucho en Colombia",
+  "description": "De residuo a recurso, de Colombia al mundo. Transformamos llantas fuera de uso en caucho triturado, granulado y molido para construcción, deporte, acústica e infraestructura vial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
